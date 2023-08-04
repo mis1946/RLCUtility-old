@@ -1,0 +1,16 @@
+C:\GGC_Systems\vb.net\WinSCP.exe
+C:\GGC_Systems\vb.net\RLCUtility.exe.manifest
+C:\GGC_Systems\vb.net\RLCUtility.application
+C:\GGC_Systems\vb.net\RLCUtility.exe
+C:\GGC_Systems\vb.net\RLCUtility.pdb
+C:\GGC_Systems\vb.net\RLCUtility.xml
+D:\POS\RLCUtility\obj\x86\Debug\RLCUtility.vbproj.AssemblyReference.cache
+D:\POS\RLCUtility\obj\x86\Debug\RLCUtility.Resources.resources
+D:\POS\RLCUtility\obj\x86\Debug\RLCUtility.vbproj.GenerateResource.cache
+D:\POS\RLCUtility\obj\x86\Debug\RLCUtility.vbproj.CoreCompileInputs.cache
+D:\POS\RLCUtility\obj\x86\Debug\RLCUtility.exe.manifest
+D:\POS\RLCUtility\obj\x86\Debug\RLCUtility.application
+D:\POS\RLCUtility\obj\x86\Debug\RLCUtility.vbproj.CopyComplete
+D:\POS\RLCUtility\obj\x86\Debug\RLCUtility.exe
+D:\POS\RLCUtility\obj\x86\Debug\RLCUtility.xml
+D:\POS\RLCUtility\obj\x86\Debug\RLCUtility.pdb
